@@ -2,6 +2,13 @@
 
 LearnTogether is a cross-platform mobile application that provides students a proactive medium to freely express any doubts or queries relating to school work. It aims to encourage students to participate in discussions proactively by having an interactive user-experience which resembles interactive chats while enabling the user to have an option to express themselves anonymously. 
 
+### Group members: 
+- ![Kai Qian](https://github.com/KaiQianNg)
+- ![Swee Sen](https://github.com/sweesenkoh)
+- ![Isaac](https://github.com/istudyaac)
+- ![Sven]()
+- ![Chen Ping]()
+
 ## System Architecture Design
 We chose to go with Flutter for our mobile application, while using Firebase Cloud Functions + Firestore as our backend solution. For push notification, we made use of Firebase Cloud Messaging. 
 ![image](https://user-images.githubusercontent.com/48687942/104839064-d3e47d80-58f9-11eb-8ab9-c7f2a7c34f49.png)
