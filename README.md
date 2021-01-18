@@ -13,6 +13,10 @@ LearnTogether is a cross-platform mobile application that provides students a pr
 
 ## UI Mockup
 [Figma Link](https://www.figma.com/file/gscUxUG4t9sy6STu5nHIUy/MockUps?node-id=0%3A1)
+
+
+<br />
+
 ![image](https://user-images.githubusercontent.com/48687942/104939116-fbffd980-59ea-11eb-9aeb-cf0f318f7b28.png)
 
 <br />
@@ -25,6 +29,8 @@ We chose to go with Flutter for our mobile application, while using Firebase Clo
 
 ## Database Schema
 Although Firestore is a NoSQL database, we mostly model it like a SQL database, having each database table corresponds to each collection in Firestore and avoiding the use of subcollections as much as possible. Benefits of such approach is explained [here](https://www.youtube.com/watch?v=haMOUb3KVSo)
+
+Here is the [dbdiagram link](https://dbdiagram.io/d/5f54a7d788d052352cb61cf9)
 
 <br />
 
