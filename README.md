@@ -3,14 +3,14 @@
 LearnTogether is a cross-platform mobile application that provides students a proactive medium to freely express any doubts or queries relating to school work. It aims to encourage students to participate in discussions proactively by having an interactive user-experience which resembles interactive chats while enabling the user to have an option to express themselves anonymously. 
 
 ### Group members: 
-- ![Sven]()
-- ![Kai Qian](https://github.com/KaiQianNg)
-- ![Isaac](https://github.com/istudyaac)
-- ![Chen Ping]()
-- ![Swee Sen](https://github.com/sweesenkoh)
+- [Sven]()
+- [Kai Qian](https://github.com/KaiQianNg)
+- [Isaac](https://github.com/istudyaac)
+- [Chen Ping]()
+- [Swee Sen](https://github.com/sweesenkoh)
 
 ## UI Mockup
-![Figma Link](https://www.figma.com/file/gscUxUG4t9sy6STu5nHIUy/MockUps?node-id=0%3A1)
+[Figma Link](https://www.figma.com/file/gscUxUG4t9sy6STu5nHIUy/MockUps?node-id=0%3A1)
 ![image](https://user-images.githubusercontent.com/48687942/104939116-fbffd980-59ea-11eb-9aeb-cf0f318f7b28.png)
 
 
