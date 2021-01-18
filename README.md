@@ -9,10 +9,14 @@ LearnTogether is a cross-platform mobile application that provides students a pr
 - ![Chen Ping]()
 - ![Swee Sen](https://github.com/sweesenkoh)
 
+## UI Mockup
+![Figma Link](https://www.figma.com/file/gscUxUG4t9sy6STu5nHIUy/MockUps?node-id=0%3A1)
+![image](https://user-images.githubusercontent.com/48687942/104939116-fbffd980-59ea-11eb-9aeb-cf0f318f7b28.png)
+
+
 ## System Architecture Design
 We chose to go with Flutter for our mobile application, while using Firebase Cloud Functions + Firestore as our backend solution. For push notification, we made use of Firebase Cloud Messaging. 
 ![image](https://user-images.githubusercontent.com/48687942/104839064-d3e47d80-58f9-11eb-8ab9-c7f2a7c34f49.png)
-
 
 
 ## Database Schema
