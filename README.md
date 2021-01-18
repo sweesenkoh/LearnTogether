@@ -35,7 +35,7 @@ Although Firestore is a NoSQL database, we mostly model it like a SQL database, 
 ## Key Features: 
 
 ### 1. Account Authentication and View Enrolled Courses
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/48687942/104838256-ba8d0280-58f4-11eb-8ced-763ab47884db.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/48687942/104838256-ba8d0280-58f4-11eb-8ced-763ab47884db.gif | width=48)
 <br /><br />
 
 ### 2. View Forum Posts and Upvote Posts
