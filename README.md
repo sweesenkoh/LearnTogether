@@ -28,7 +28,6 @@ We chose to go with Flutter for our mobile application, while using Firebase Clo
 <br />
 
 ## Database Schema
-Although Firestore is a NoSQL database, we mostly model it like a SQL database, having each database table corresponds to each collection in Firestore and avoiding the use of subcollections as much as possible. Benefits of such approach is explained [here](https://www.youtube.com/watch?v=haMOUb3KVSo)
 
 Here is the [dbdiagram link](https://dbdiagram.io/d/5f54a7d788d052352cb61cf9)
 
